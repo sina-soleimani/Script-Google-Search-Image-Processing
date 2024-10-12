@@ -1,0 +1,6 @@
+# requirements.txt
+psycopg2
+simple-image-download
+Pillow
+requests
+python-dotenv
