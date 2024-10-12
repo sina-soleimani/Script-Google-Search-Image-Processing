@@ -40,6 +40,7 @@ Using the above command, a container is created from each image file (created in
 docker-compose up
 ```
 <h1 align="center">Usage</h1>
+<h5>user can change imput values to take suit result. inputs are input-search-query for google search, maximum number of image to processing and target size </h5>
 
 
 ```bash
@@ -48,19 +49,19 @@ docker-compose exec app python main.py --query "panda" --max_images 10 --target_
 <h1 align="center">Contributing</h1>
 
 
-<h2 align="center">Download images via google search result</h2>
+<h3 align="center">Download images via google search result</h2>
 
 
 
 
-<h2 align="center">reize image </h2>
+<h3 align="center">reize image </h2>
 
 
 
-<h2 align="center">ٍsave images on postgres database </h2>
+<h3 align="center">ٍsave images on postgres database </h2>
 
 
-<h2 align="center">unit test for main module</h2>
+<h3 align="center">unit test for main module</h2>
 
 
 
