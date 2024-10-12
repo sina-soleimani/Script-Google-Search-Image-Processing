@@ -49,19 +49,19 @@ docker-compose exec app python main.py --query "panda" --max_images 10 --target_
 <h1 align="center">Contributing</h1>
 
 
-<h3 align="center">Download images via google search result</h2>
+<h5 align="center">Download images via google search result</h5>
 
 
 
 
-<h3 align="center">reize image </h2>
+<h5 align="center">reize image </h5>
 
 
 
-<h3 align="center">ٍsave images on postgres database </h2>
+<h5 align="center">ٍsave images on postgres database </h5>
 
 
-<h3 align="center">unit test for main module</h2>
+<h5 align="center">unit test for main module</h5>
 
 
 
